@@ -1,0 +1,17 @@
+body .g-4{
+    justify-content: space-evenly;
+    margin: 50px 20px ;
+}
+.col{
+    margin : 10px;
+    min-width: 230px;
+}
+.mb-3.input-group{
+    margin-top: 5px;
+}
+.card-img-top{
+    height: 200px;
+}
+.spinner-border{
+    margin: 100px 47%;
+}
